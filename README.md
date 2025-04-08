@@ -1,8 +1,12 @@
 <h1 align="center">Hey, I'm Dushyant 👋</h1>
 
 <p align="center">
-  <i>Building things that probably shouldn't exist — but they do now.</i>
-</p>
+🚀 Tech Explorer
+
+Crafting ideas → Breaking stuff → Learning → Building better. <br>
+Currently vibing in the world of AI, Systems, Multi-Agent Madness & Random Geek Experiments. <br><br>
+
+<i>"Not your regular coder... more like the guy who breaks stuff till it works!"</i>
 
 ---
 
