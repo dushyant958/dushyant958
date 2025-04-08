@@ -7,20 +7,25 @@
 ---
 
 ## 🚀 Current Obsession:
-→ Agentic AI • LLM Fine-tuning • RGB-Thermal Fusion • Signature Verification via Motion Sensors  
+→ GenAI • LSTM & LLM Fine-tuning • Deep Learning Models 
+
 
 ---
 
 ## 🛠️ Tech Playground:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-0A0A0A?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
 ![FAISS](https://img.shields.io/badge/-FAISS-0099FF?style=for-the-badge&logo=faiss&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-0A0A0A?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FEDB00?style=for-the-badge&logo=huggingface&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 
 ---
 
@@ -36,19 +41,17 @@
 
 ---
 
-## 🐍 Contribution Snake (because why not)
-
-<p align="center">
-  <img src="https://github.com/dushyant958/dushyant958/blob/output/github-contribution-grid-snake.svg">
-</p>
+## 🤝 Let's Connect:
 
 ---
 
-## 🤝 Let's Connect:
+<h3 align="center">Let's connect and build cool stuff!</h3>
 
-- [LinkedIn](#)  
-- [Email](#)  
-- Portfolio (coming soon 😉)
+<p align="center">
+  <a href="linkedin.com/in/dushyant-atalkar-50281028a"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="dushyantatalkar415@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
+
 
 ---
 
