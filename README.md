@@ -35,12 +35,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dushyant958&show_icons=true&theme=radical" alt="Dushyant's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=dushyant958&show_icons=true&theme=radical&cache_seconds=60" alt="Dushyant's GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyant958&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyant958&layout=compact&theme=radical&cache_seconds=60">
 </p>
+
 
 ---
 
