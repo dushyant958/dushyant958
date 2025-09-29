@@ -34,14 +34,14 @@
 - **[Conversational AI Search Engine](https://github.com/dushyant958/Simple-Agentic-Search-Engine-)** – *LLaMA3, LangChain, FAISS, Groq, Streamlit*  
   → Built a **RAG-based chatbot** integrating Wikipedia, Arxiv & DuckDuckGo with real-time **reasoning trace visualization**  
 
-- **[Accident Detection AI System](https://github.com/SahilSohani27/accident-detection-ai)** – *YOLOv8s, FastAPI, CV, GPT-4o*  
+- **[Accident Detection AI System](https://github.com/SahilSohani27/accident-detection-ai)** – *YOLOv8s, FastAPI, OpenCV, GPT-4o, Microservices, *  
   → Real-time CCTV-based accident detection pipeline for **OpenAI x Nxtwave Hackathon**, fine-tuned YOLOv8s to minimize false positives  
 
 ---
 
 ## 📚 Research  
 - 📝 Authoring a research paper with **RobotBulls** on *cryptocurrency price prediction & sentiment analysis*  
-- Targeting **A*/B* conference submission** (methods under NDA)  
+- Targeting **A*/B* conference submission (methods under NDA)  
 
 ---
 
@@ -104,9 +104,10 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dushyant958&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dushyant958&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180em" />
   <img src="https://streak-stats.demolab.com?user=dushyant958&theme=tokyonight&hide_border=true" height="180em" />
 </p>
+
 
 
 
