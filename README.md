@@ -12,8 +12,7 @@
 - 📍 Pune, India | Final-Year B.E. in Electronics & Telecommunication (CGPA: **9.36/10**)  
 - 💡 Passionate about **AI, LLMs, RAG, Computer Vision, and Multi-Agent Systems**  
 - 🔬 Worked on **defense R&D, hackathons, and research publications**  
-- ⚡ Currently vibing with **GenAI, LSTMs, LLM Fine-tuning, and Deep Learning models**  
-- 🎮 Outside code: I enjoy **piano, hacking side-projects, and random geek experiments**  
+- ⚡ Currently vibing with **GenAI, Agentic AI, CrewAI, LLM Fine-tuning, and Deep Learning models**  
 
 ---
 
@@ -22,7 +21,7 @@
 **Research & Development Intern** – *Defense Research & Development Organisation (DRDO)*  
 *Jan 2025 – May 2025, Pune, India*  
 - Engineered a **real-time surveillance system** with multi-modal fusion & image registration → improved target detection **by 50%**  
-- Designed lightweight, feature-based algorithms → achieved **99.3% registration accuracy** with reduced latency  
+- Designed lightweight, feature-based data fusion algorithms → achieved **99.3% registration accuracy** with reduced latency  
 - Built statistical models to **enhance system resilience** against **8+ environmental interferences** during field deployment  
 
 ---
@@ -32,7 +31,7 @@
 - **[LinkedIn AI Agent](https://github.com/dushyant958/linkedin-ai-agent)** – *GPT-4, LangChain, HuggingFace, FastAPI, Next.js*  
   → AI-powered LinkedIn automation platform with **intelligent content generation**, trend analysis & post-scheduling  
 
-- **[Conversational AI Search Chatbot](https://github.com/dushyant958/Simple-Agentic-Search-Engine-)** – *LLaMA3, LangChain, FAISS, Groq, Streamlit*  
+- **[Conversational AI Search Engine](https://github.com/dushyant958/Simple-Agentic-Search-Engine-)** – *LLaMA3, LangChain, FAISS, Groq, Streamlit*  
   → Built a **RAG-based chatbot** integrating Wikipedia, Arxiv & DuckDuckGo with real-time **reasoning trace visualization**  
 
 - **[Accident Detection AI System](https://github.com/SahilSohani27/accident-detection-ai)** – *YOLOv8s, FastAPI, CV, GPT-4o*  
@@ -46,11 +45,48 @@
 
 ---
 
-## 🛠️ Tech Arsenal  
+## 🚀 Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,langchain,huggingface,docker,fastapi,react,nextjs,streamlit,gradio,git,github,aws,gcp,mysql" />
-</p>
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+  <!-- Databases & Cloud -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-F7931E.svg?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-12100E.svg?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p> 
 
 ---
 
@@ -61,31 +97,18 @@
 
 ---
 
-## 📊 GitHub Stats & Activity  
+ 
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dushyant958&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dushyant958&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=dushyant958&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dushyant958&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dushyant958&show_icons=true&theme=radical&cache_seconds=60" alt="Dushyant's GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyant958&layout=compact&theme=radical&cache_seconds=60">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dushyant958&theme=radical&hide_border=true&area=true" alt="Activity Graph">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dushyant958&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile views">
-</p>
 
 ---
 
