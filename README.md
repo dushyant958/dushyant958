@@ -31,8 +31,6 @@
 - **[LinkedIn AI Agent](https://github.com/dushyant958/linkedin-ai-agent)** – *GPT-4, LangChain, HuggingFace, FastAPI, Next.js*  
   → AI-powered LinkedIn automation platform with **intelligent content generation**, trend analysis & post-scheduling  
 
-- **[Conversational AI Search Engine](https://github.com/dushyant958/Simple-Agentic-Search-Engine-)** – *LLaMA3, LangChain, FAISS, Groq, Streamlit*  
-  → Built a **RAG-based chatbot** integrating Wikipedia, Arxiv & DuckDuckGo with real-time **reasoning trace visualization**  
 
 - **[Accident Detection AI System](https://github.com/SahilSohani27/accident-detection-ai)** – *YOLOv8s, FastAPI, OpenCV, GPT-4o, Microservices, *  
   → Real-time CCTV-based accident detection pipeline for **OpenAI x Nxtwave Hackathon**, fine-tuned YOLOv8s to minimize false positives  
@@ -40,7 +38,7 @@
 ---
 
 ## 📚 Research  
-- 📝 Authoring a research paper with **RobotBulls** on *cryptocurrency price prediction & sentiment analysis*  
+- 📝 Co - Authoring a research paper with **RobotBulls** on *cryptocurrency price prediction & sentiment analysis*  
 - Targeting **A*/B* conference submission (methods under NDA)  
 
 ---
