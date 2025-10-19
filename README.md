@@ -26,20 +26,9 @@
 
 ---
 
-## 🧩 Featured Projects  
-
-- **[LinkedIn AI Agent](https://github.com/dushyant958/linkedin-ai-agent)** – *GPT-4, LangChain, HuggingFace, FastAPI, Next.js*  
-  → AI-powered LinkedIn automation platform with **intelligent content generation**, trend analysis & post-scheduling  
-
-
-- **[Accident Detection AI System](https://github.com/SahilSohani27/accident-detection-ai)** – *YOLOv8s, FastAPI, OpenCV, GPT-4o, Microservices, *  
-  → Real-time CCTV-based accident detection pipeline for **OpenAI x Nxtwave Hackathon**, fine-tuned YOLOv8s to minimize false positives  
-
----
-
 ## 📚 Research  
 - 📝 Co - Authoring a research paper with **RobotBulls** on *cryptocurrency price prediction & sentiment analysis*  
-- Targeting **A*/B* conference submission (methods under NDA)  
+- Targeting *KDD* conference submission (methods under NDA)  
 
 ---
 
